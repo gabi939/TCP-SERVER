@@ -1,0 +1,3 @@
+﻿  hadar_tcp_server.cpp
+C:\Users\Gabi Malin\Desktop\workspace\Server\Server\hadar_tcp_server.cpp(60): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> C:\Users\Gabi Malin\Desktop\workspace\Server\Debug\Server.exe
